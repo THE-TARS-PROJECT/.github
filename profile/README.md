@@ -18,9 +18,9 @@ Whether it’s holographic UIs, voice-activated systems, or sleek control panels
 
 This organization hosts multiple repositories, each representing a "module" in the TARS ecosystem:
 
-- [`vortexui`](https://github.com/YourOrg/frontend) – A slick sci-fi user-interface toolkit used by TARS OS
-- [`system-monitor`](https://github.com/YourOrg/backend) – Vortex-UI based first application for monitoring system resources.
-- 
+- [`vortexui`](https://github.com/THE-TARS-PROJECT/vortexui) – A slick sci-fi user-interface toolkit used by TARS OS
+- [`system-monitor`](https://github.com/THE-TARS-PROJECT/system-monitor) – Vortex-UI based first application for monitoring system resources.
+- [`tars-de`](https://github.com/THE-TARS-PROJECT/tars-de)
 ---
 
 ## 🔧 Tech Stack
